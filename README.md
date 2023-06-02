@@ -2,8 +2,7 @@
 
 [![Build Status](https://github.com/Moelf/ThreadLockCache.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Moelf/ThreadLockCache.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
-** This is not a production ready package, in the sense that the community is
-unable to decide what's the best practice in general at the moment. **
+**This is not a production ready package, in the sense that the community is unable to decide what's the best practice in general at the moment.**
 
 ## What does this pkg do?
 It's basically an alternative to
